@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://goldentagandtitle.com/</loc>
-    <lastmod>2026-11-05T06:57:17.884Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://goldentagandtitle.com/contact/</loc>
-    <lastmod>2026-11-05T06:34:14.443Z</lastmod>
+    <loc>https://goldentagandtitle.com/insurance/</loc>
+    <lastmod>2026-11-05T20:21:13.094Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://goldentagandtitle.com/ignition-interlock/</loc>
-    <lastmod>2026-11-05T06:34:08.269Z</lastmod>
+    <lastmod>2026-11-05T20:18:52.918Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://goldentagandtitle.com/contact/</loc>
+    <lastmod>2026-11-05T20:18:52.552Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://goldentagandtitle.com/new-to-maryland/</loc>
-    <lastmod>2026-11-05T06:34:02.299Z</lastmod>
+    <lastmod>2026-11-05T20:18:52.191Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://goldentagandtitle.com/</loc>
+    <lastmod>2026-11-05T20:18:20.481Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://goldentagandtitle.com/services/</loc>
-    <lastmod>2026-11-05T06:33:55.696Z</lastmod>
+    <lastmod>2026-11-05T20:17:44.137Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://goldentagandtitle.com/feedback/</loc>
+    <lastmod>2026-11-05T07:03:20.084Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
