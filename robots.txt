@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calldirectorai.github.io/gtt-home/sitemap.xml
+Sitemap: https://goldentagandtitle.com/sitemap.xml
