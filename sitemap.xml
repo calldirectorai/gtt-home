@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://goldentagandtitle.com/services/</loc>
+    <lastmod>2026-11-05T06:33:55.696Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://goldentagandtitle.com/</loc>
     <lastmod>2026-11-05T06:33:49.702Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,11 +23,6 @@
   <url>
     <loc>https://goldentagandtitle.com/new-to-maryland/</loc>
     <lastmod>2026-11-05T06:33:42.824Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://goldentagandtitle.com/services/</loc>
-    <lastmod>2026-11-05T06:33:41.900Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
