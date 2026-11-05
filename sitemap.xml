@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://calldirectorai.github.io/gtt-home/contact/</loc>
+    <lastmod>2026-11-05T05:23:22.422Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://calldirectorai.github.io/gtt-home/ignition-interlock/</loc>
     <lastmod>2026-11-05T05:23:16.187Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,11 +23,6 @@
   <url>
     <loc>https://calldirectorai.github.io/gtt-home/</loc>
     <lastmod>2026-11-05T05:22:55.553Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/gtt-home/contact/</loc>
-    <lastmod>2026-11-05T05:22:20.959Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
